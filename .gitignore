@@ -1,0 +1,27 @@
+/web/bundles/
+!/web/bundles/.gitkeep
+
+/app/cache/*
+!/app/cache/.gitkeep
+
+/app/logs/*
+!/app/logs/.gitkeep
+
+/vendor/
+!/vendoer/.gitkeep
+
+/app/config/parameters.ini
+/app/phpunit.xml
+
+*~
+
+
+# NetBeans IDE
+/nbproject
+
+# Sublime
+/*.sublime*
+
+# PHPStorm
+/.idea
+

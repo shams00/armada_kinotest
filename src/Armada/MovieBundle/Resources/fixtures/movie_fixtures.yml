@@ -1,0 +1,258 @@
+movie:
+  movie1:
+    name: Побег из Шоушенка
+    originalName: The Shawshank Redemption
+    year: 1994
+
+  movie2:
+    name: Зеленая миля
+    originalName: The Green Mile
+    year: 1999
+
+  movie3:
+    name: Форрест Гамп
+    originalName: Forrest Gump
+    year: 1994
+
+  movie4:
+    name: 1+1
+    originalName: Intouchables
+    year: 2011
+
+  movie5:
+    name: Список Шиндлера
+    originalName: Schindler's List
+    year: 1993
+
+  movie6:
+    name: Леон
+    originalName: Leon
+    year: 1994
+
+  movie7:
+    name: Король Лев
+    originalName: The Lion King
+    year: 1994
+
+  movie8:
+    name: Начало
+    originalName: Inception
+    year: 2010
+
+  movie9:
+    name: Бойцовский клуб
+    originalName: Fight Club
+    year: 1999
+
+  movie10:
+    name: Достучаться до небес
+    originalName: Knockin' on Heaven's Door
+    year: 1997
+
+  movie11:
+    name: Иван Васильевич меняет профессию
+    originalName: Иван Васильевич меняет профессию
+    year: 1973
+
+  movie12:
+    name: Жизнь прекрасна
+    originalName: La Vita è bella
+    year: 1997
+
+  movie13:
+    name: Престиж
+    originalName: The Prestige
+    year: 2006
+
+  movie14:
+    name: Крестный отец
+    originalName: The Godfather
+    year: 1972
+
+movie_score:
+
+  # '2012-06-01'
+
+  movie_score1_1:
+    place: 1
+    movie: movie1
+    scoreDate: '2012-06-01'
+    score: 9.180
+    voteCount: 156716
+
+  movie_score2_1:
+    place: 2
+    movie: movie2
+    scoreDate: '2012-06-01'
+    score: 9.117
+    voteCount: 149383
+
+  movie_score3_1:
+    place: 3
+    movie: movie3
+    scoreDate: '2012-06-01'
+    score: 9.006
+    voteCount: 152380
+
+  movie_score4_1:
+    place: 4
+    movie: movie4
+    scoreDate: '2012-06-01'
+    score: 9.006
+    voteCount: 43044
+
+  movie_score5_1:
+    place: 5
+    movie: movie5
+    scoreDate: '2012-06-01'
+    score: 8.809
+    voteCount: 72115
+
+  movie_score6_1:
+    place: 6
+    movie: movie6
+    scoreDate: '2012-06-01'
+    score: 8.805
+    voteCount: 124528
+
+  movie_score7_1:
+    place: 7
+    movie: movie7
+    scoreDate: '2012-06-01'
+    score: 8.772
+    voteCount: 102829
+
+  movie_score8_1:
+    place: 8
+    movie: movie8
+    scoreDate: '2012-06-01'
+    score: 8.765
+    voteCount: 168477
+
+  movie_score9_1:
+    place: 9
+    movie: movie9
+    scoreDate: '2012-06-01'
+    score: 8.718
+    voteCount: 139112
+
+  movie_score10_1:
+    place: 10
+    movie: movie10
+    scoreDate: '2012-06-01'
+    score: 8.700
+    voteCount: 126126
+
+  movie_score11_1:
+    place: 11
+    movie: movie11
+    scoreDate: '2012-06-01'
+    score: 8.692
+    voteCount: 116514
+
+  movie_score12_1:
+    place: 12
+    movie: movie12
+    scoreDate: '2012-06-01'
+    score: 8.646
+    voteCount: 47623
+
+  movie_score13_1:
+    place: 13
+    movie: movie13
+    scoreDate: '2012-06-01'
+    score: 8.644
+    voteCount: 64649
+
+  # '2012-06-03'
+
+  movie_score1_2:
+    place: 1
+    movie: movie1
+    scoreDate: '2012-06-03'
+    score: 9.204
+    voteCount: 157106
+
+  movie_score2_2:
+    place: 2
+    movie: movie2
+    scoreDate: '2012-06-03'
+    score: 9.144
+    voteCount: 149751
+
+  movie_score3_2:
+    place: 3
+    movie: movie3
+    scoreDate: '2012-06-03'
+    score: 9.039
+    voteCount: 152759
+
+  movie_score4_2:
+    place: 4
+    movie: movie4
+    scoreDate: '2012-06-03'
+    score: 8.902
+    voteCount: 44293
+
+  movie_score5_2:
+    place: 5
+    movie: movie5
+    scoreDate: '2012-06-03'
+    score: 8.857
+    voteCount: 72304
+
+  movie_score6_2:
+    place: 6
+    movie: movie6
+    scoreDate: '2012-06-03'
+    score: 8.835
+    voteCount: 124814
+
+  movie_score7_2:
+    place: 7
+    movie: movie7
+    scoreDate: '2012-06-03'
+    score: 8.812
+    voteCount: 103098
+
+  movie_score8_2:
+    place: 8
+    movie: movie8
+    scoreDate: '2012-06-03'
+    score: 8.797
+    voteCount: 168894
+
+  movie_score9_2:
+    place: 9
+    movie: movie9
+    scoreDate: '2012-06-03'
+    score: 8.751
+    voteCount: 139472
+
+  movie_score10_2:
+    place: 10
+    movie: movie11
+    scoreDate: '2012-06-03'
+    score: 8.734
+    voteCount: 116810
+
+  movie_score11_2:
+    place: 11
+    movie: movie10
+    scoreDate: '2012-06-03'
+    score: 8.728
+    voteCount: 126438
+
+  movie_score12_2:
+    place: 12
+    movie: movie12
+    scoreDate: '2012-06-03'
+    score: 8.698
+    voteCount: 47734
+
+  movie_score13_2:
+    place: 13
+    movie: movie14
+    scoreDate: '2012-06-03'
+    score: 8.694
+    voteCount: 64801

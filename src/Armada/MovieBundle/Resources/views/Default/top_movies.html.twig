@@ -1,0 +1,29 @@
+
+{% if scores is empty %}
+    <strong>На выбранную дату рейтинг не найден</strong>
+{% else %}
+<table class="table table-bordered movie_list">
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>Фильм</th>
+        <th>Оценка</th>
+        <th>Голосов</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for score in scores %}
+    <tr class="movie_row">
+        <td>{{ loop.index }}</td>
+        <td class="movie_name">
+            {{ score.movie.name }}
+            <span class="movie_year">({{ score.movie.year }})</span>
+            <span class="movie_original_name">{{ score.movie.originalName }}</span>
+        </td>
+        <td class="movie_score">{{ score.score }}</td>
+        <td class="movie_vote_count">{{ score.voteCount }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endif %}

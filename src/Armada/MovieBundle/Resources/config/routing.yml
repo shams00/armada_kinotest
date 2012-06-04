@@ -1,0 +1,6 @@
+ArmadaMovieBundle_homepage:
+    pattern:  /
+    defaults: { _controller: ArmadaMovieBundle:Default:index }
+    options:
+      expose: true
+

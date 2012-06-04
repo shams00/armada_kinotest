@@ -1,0 +1,18 @@
+{% extends '::base.html.twig' %}
+
+{% block body %}
+<h1>Рейтинг фильмов</h1>
+<input type="text" id="rating_date" class="datepicker" value="{{ ratingDate|date('Y-m-d') }}"/>
+<div id="rating_container">
+{% include 'ArmadaMovieBundle:Default:top_movies.html.twig' %}
+</div>
+{% endblock %}
+
+{% block javascripts %}
+{{ parent() }}
+<script type="text/javascript">
+    $(function () {
+        movie.initRating();
+    });
+</script>
+{% endblock %}
